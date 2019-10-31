@@ -4980,54 +4980,6 @@
 		"category": "DarkNET Drugs",
 		"defname": "Zero"
 	},
-	{
-		"abr": "aggressionamplifier",
-		"price": 17,
-		"category": "Artificial",
-		"defname": "WCE_AggressionAmplifier"
-	},
-	{
-		"abr": "heartirregulator",
-		"price": 17,
-		"category": "Artificial",
-		"defname": "WCE_HeartIrregulator"
-	},
-	{
-		"abr": "neutroamineincubator",
-		"price": 83,
-		"category": "Artificial",
-		"defname": "WCE_NeutroamineIncubator"
-	},
-	{
-		"abr": "neutroaminesac",
-		"price": 58,
-		"category": "Manufactured",
-		"defname": "WCE_NeutroamineSac"
-	},
-	{
-		"abr": "painamplifier",
-		"price": 17,
-		"category": "Artificial",
-		"defname": "WCE_PainAmplifier"
-	},
-	{
-		"abr": "panicinducer",
-		"price": 17,
-		"category": "Artificial",
-		"defname": "WCE_PanicInducer"
-	},
-	{
-		"abr": "sleepdeprivator",
-		"price": 17,
-		"category": "Artificial",
-		"defname": "WCE_SleepDeprivator"
-	},
-	{
-		"abr": "stomachclamp",
-		"price": 17,
-		"category": "Artificial",
-		"defname": "WCE_StomachClamp"
-	},
 	],
-	"total": 1724
+	"total": 1716
 }
