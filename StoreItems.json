@@ -4980,6 +4980,96 @@
 		"category": "DarkNET Drugs",
 		"defname": "Zero"
 	},
+	{
+		"abr": "aggressionamplifier",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_AggressionAmplifier"
+	},
+	{
+		"abr": "heartirregulator",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_HeartIrregulator"
+	},
+	{
+		"abr": "neutroamineincubator",
+		"price": 83,
+		"category": "Artificial",
+		"defname": "WCE_NeutroamineIncubator"
+	},
+	{
+		"abr": "neutroaminesac",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WCE_NeutroamineSac"
+	},
+	{
+		"abr": "painamplifier",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_PainAmplifier"
+	},
+	{
+		"abr": "panicinducer",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_PanicInducer"
+	},
+	{
+		"abr": "sleepdeprivator",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_SleepDeprivator"
+	},
+	{
+		"abr": "stomachclamp",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_StomachClamp"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcrib",
+		"price": 105,
+		"category": "Furniture",
+		"defname": "CribGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	}
 	],
-	"total": 1716
+	"total": 1731
 }
