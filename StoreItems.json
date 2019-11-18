@@ -999,61 +999,61 @@
 	{
 		"abr": "archotecharm",
 		"price": 4667,
-		"category": "Artificial",
+		"category": "Advanced bionics",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
 		"price": 4667,
-		"category": "Artificial",
+		"category": "Advanced bionics",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
 		"price": 4667,
-		"category": "Artificial",
+		"category": "Advanced bionics",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "bionicarm",
 		"price": 1717,
-		"category": "Artificial",
+		"category": "Bionics",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicear",
 		"price": 1308,
-		"category": "Artificial",
+		"category": "Bionics",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
 		"price": 1708,
-		"category": "Artificial",
+		"category": "Bionics",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicheart",
 		"price": 1383,
-		"category": "Artificial",
+		"category": "",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicleg",
 		"price": 1717,
-		"category": "Artificial",
+		"category": "Bionics",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
 		"price": 1717,
-		"category": "Artificial",
+		"category": "Bionics",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicstomach",
 		"price": 1308,
-		"category": "Artificial",
+		"category": "",
 		"defname": "BionicStomach"
 	},
 	{
@@ -1065,7 +1065,7 @@
 	{
 		"abr": "cochlearimplant",
 		"price": 342,
-		"category": "Artificial",
+		"category": "Simple prostheses",
 		"defname": "CochlearImplant"
 	},
 	{
@@ -1089,7 +1089,7 @@
 	{
 		"abr": "joywire",
 		"price": 1333,
-		"category": "Artificial",
+		"category": "Brain implants",
 		"defname": "Joywire"
 	},
 	{
@@ -1107,7 +1107,7 @@
 	{
 		"abr": "painstopper",
 		"price": 1333,
-		"category": "Artificial",
+		"category": "Brain implants",
 		"defname": "Painstopper"
 	},
 	{
@@ -1137,19 +1137,19 @@
 	{
 		"abr": "prostheticarm",
 		"price": 408,
-		"category": "Artificial",
+		"category": "Simple prostheses",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "prostheticheart",
 		"price": 358,
-		"category": "Artificial",
+		"category": "",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "prostheticleg",
 		"price": 408,
-		"category": "Artificial",
+		"category": "Simple prostheses",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
@@ -11305,18 +11305,6 @@
 		"defname": "LegMount"
 	},
 	{
-		"abr": "lieuteantphaseiarmor",
-		"price": 2108,
-		"category": "Apparel",
-		"defname": "Lieuteant_PhaseI_Armor"
-	},
-	{
-		"abr": "lieuteantphaseihelmet",
-		"price": 1050,
-		"category": "Headgear",
-		"defname": "Lieuteant_PhaseI_Helmet"
-	},
-	{
 		"abr": "marksmanrifle",
 		"price": 825,
 		"category": "Ranged weapons",
@@ -11337,26 +11325,14 @@
 	{
 		"abr": "mistergutsykit",
 		"price": 5183,
-		"category": "Eggs (fert.)",
+		"category": "",
 		"defname": "GutsyKit"
-	},
-	{
-		"abr": "mistergutsymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_MisterGutsy"
 	},
 	{
 		"abr": "misterhandy",
 		"price": 4083,
 		"category": "Animal",
 		"defname": "MrHandy"
-	},
-	{
-		"abr": "misterhandymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_MrHandy"
 	},
 	{
 		"abr": "mountedflamethrower",
@@ -11385,7 +11361,7 @@
 	{
 		"abr": "mrhandykit",
 		"price": 4133,
-		"category": "Eggs (fert.)",
+		"category": "",
 		"defname": "MrHandyKit"
 	},
 	{
@@ -11403,14 +11379,8 @@
 	{
 		"abr": "nursehandykit",
 		"price": 4142,
-		"category": "Eggs (fert.)",
+		"category": "",
 		"defname": "NurseHandyKit"
-	},
-	{
-		"abr": "nursehandymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_NurseHandy"
 	},
 	{
 		"abr": "personalshuttle",
@@ -11541,14 +11511,8 @@
 	{
 		"abr": "scrapbotkit",
 		"price": 692,
-		"category": "Eggs (fert.)",
+		"category": "",
 		"defname": "ScrapBotKit"
-	},
-	{
-		"abr": "scrapbotmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_ScrapBot"
 	},
 	{
 		"abr": "securitron",
@@ -11559,14 +11523,8 @@
 	{
 		"abr": "securitronkit",
 		"price": 6233,
-		"category": "Eggs (fert.)",
+		"category": "",
 		"defname": "SecuritronKit"
-	},
-	{
-		"abr": "securitronmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Securitron"
 	},
 	{
 		"abr": "segmentedrobotarm",
@@ -11706,6 +11664,594 @@
 		"category": "Artificial",
 		"defname": "WheelStrut"
 	},
+	{
+		"abr": "hyperionassaultrifle",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionAssaultRifle"
+	},
+	{
+		"abr": "hyperioncombatshotgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionCombatShotgun"
+	},
+	{
+		"abr": "hyperionengineeringhelmet",
+		"price": 2083,
+		"category": "Headgear",
+		"defname": "Apparel_HyperionEngineerHelmet"
+	},
+	{
+		"abr": "hyperionmachinepistol",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionMachinePistol"
+	},
+	{
+		"abr": "hyperionscouthelmet",
+		"price": 750,
+		"category": "Headgear",
+		"defname": "Apparel_HyperionScoutHelmet"
+	},
+	{
+		"abr": "hyperionsoldierhelmet",
+		"price": 2083,
+		"category": "Headgear",
+		"defname": "Apparel_HyperionSoldierHelmet"
+	},
+	{
+		"abr": "hyperionuniform",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_HyperionUniform"
+	},
+	{
+		"abr": "assaultron",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Assaultron"
+	},
+	{
+		"abr": "assaultronfacelaser",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "FaceLaserHelmet"
+	},
+	{
+		"abr": "assaultronkit",
+		"price": 6233,
+		"category": "",
+		"defname": "AssaultronKit"
+	},
+	{
+		"abr": "e-5blasterrifle",
+		"price": 2233,
+		"category": "Ranged weapons",
+		"defname": "E-5_Blaster_Rifle"
+	},
+	{
+		"abr": "hyperionexosuit",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_HyperionExosuit"
+	},
+	{
+		"abr": "protectetron",
+		"price": 2083,
+		"category": "Animal",
+		"defname": "Protectetron"
+	},
+	{
+		"abr": "protectetronkit",
+		"price": 1958,
+		"category": "",
+		"defname": "ProtectetronKit"
+	},
+	{
+		"abr": "robotichead",
+		"price": 433,
+		"category": "Artificial",
+		"defname": "RoboticHead"
+	},
+	{
+		"abr": "skag",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Skag"
+	},
+	{
+		"abr": "skagmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Skag"
+	},
+	{
+		"abr": "weaklaser",
+		"price": 293,
+		"category": "Artificial",
+		"defname": "WeakLaser"
+	},
+	{
+		"abr": "z6rotaryblastercannon",
+		"price": 3200,
+		"category": "Ranged weapons",
+		"defname": "Z6_Rotary_Blaster_Cannon"
+	},
+	{
+		"abr": "arcticskag",
+		"price": 750,
+		"category": "Animal",
+		"defname": "SkagArctic"
+	},
+	{
+		"abr": "commandokatarn-classarmor",
+		"price": 2550,
+		"category": "Apparel",
+		"defname": "Commando_Katarn_Armor"
+	},
+	{
+		"abr": "commandokatarn-classhelmet",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "Commando_Katarn_Helmet"
+	},
+	{
+		"abr": "lieutenantphaseiarmor",
+		"price": 2108,
+		"category": "Apparel",
+		"defname": "Lieutenant_PhaseI_Armor"
+	},
+	{
+		"abr": "lieutenantphaseihelmet",
+		"price": 1050,
+		"category": "Headgear",
+		"defname": "Lieutenant_PhaseI_Helmet"
+	},
+	{
+		"abr": "skagspitter",
+		"price": 750,
+		"category": "Animal",
+		"defname": "SkagSpitter"
+	},
+	{
+		"abr": "skagmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SkagSpitter"
+	},
+	{
+		"abr": "glowingone",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "GlowingGhoul"
+	},
+	{
+		"abr": "glowingonemeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_GlowingGhoul"
+	},
+	{
+		"abr": "mountedminigun",
+		"price": 293,
+		"category": "Artificial",
+		"defname": "MountedMiniGun"
+	},
+	{
+		"abr": "mountedmissilelauncher",
+		"price": 1592,
+		"category": "Artificial",
+		"defname": "MountedMissileLauncher"
+	},
+	{
+		"abr": "sentrybot",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Sentrybot"
+	},
+	{
+		"abr": "aureancornea",
+		"price": 1833,
+		"category": "Cyborg",
+		"defname": "ANN_AureanCornea"
+	},
+	{
+		"abr": "aurum",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_Aurum"
+	},
+	{
+		"abr": "autonomicviruskiller",
+		"price": 2667,
+		"category": "Cyborg",
+		"defname": "ANN_Autonomicviruskiller"
+	},
+	{
+		"abr": "berserkerchip",
+		"price": 2500,
+		"category": "Cyborg",
+		"defname": "ANN_BerserkerChip"
+	},
+	{
+		"abr": "blackpearl",
+		"price": 1667,
+		"category": "Cyborg",
+		"defname": "ANN_BlackPearl"
+	},
+	{
+		"abr": "brainwash",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_Brainwash"
+	},
+	{
+		"abr": "combatai",
+		"price": 2833,
+		"category": "Cyborg",
+		"defname": "ANN_CombatAI"
+	},
+	{
+		"abr": "compressionjaw",
+		"price": 833,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionJaw"
+	},
+	{
+		"abr": "compressionstomach",
+		"price": 833,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionStomach"
+	},
+	{
+		"abr": "cyclopsvisor",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_CyclopsVisor"
+	},
+	{
+		"abr": "dermalplating",
+		"price": 2500,
+		"category": "Cyborg",
+		"defname": "ANN_Dermalplating"
+	},
+	{
+		"abr": "elasticachilles",
+		"price": 2167,
+		"category": "Cyborg",
+		"defname": "ANN_ElasticAchilles"
+	},
+	{
+		"abr": "energetickidney",
+		"price": 833,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticKidney"
+	},
+	{
+		"abr": "energeticlung",
+		"price": 833,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticLung"
+	},
+	{
+		"abr": "energycore",
+		"price": 3333,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyCore"
+	},
+	{
+		"abr": "energyfist",
+		"price": 1667,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyFist"
+	},
+	{
+		"abr": "energylink",
+		"price": 2500,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyLink"
+	},
+	{
+		"abr": "exoskeletonarmor",
+		"price": 3000,
+		"category": "Cyborg",
+		"defname": "ANN_Exoskeleton"
+	},
+	{
+		"abr": "flashlight",
+		"price": 833,
+		"category": "Cyborg",
+		"defname": "ANN_FlashLight"
+	},
+	{
+		"abr": "greenthumb",
+		"price": 1167,
+		"category": "Cyborg",
+		"defname": "ANN_Greenthumb"
+	},
+	{
+		"abr": "hoverfeet",
+		"price": 1333,
+		"category": "Cyborg",
+		"defname": "ANN_HoverFeet"
+	},
+	{
+		"abr": "independenteye",
+		"price": 1667,
+		"category": "Cyborg",
+		"defname": "ANN_IndependentEye"
+	},
+	{
+		"abr": "laserdetection",
+		"price": 1167,
+		"category": "Cyborg",
+		"defname": "ANN_LaserDetection"
+	},
+	{
+		"abr": "lionheart",
+		"price": 2500,
+		"category": "Cyborg",
+		"defname": "ANN_Lionheart"
+	},
+	{
+		"abr": "mindclearer",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_MindClearer"
+	},
+	{
+		"abr": "mindtwist",
+		"price": 1000,
+		"category": "Cyborg",
+		"defname": "ANN_Mindtwist"
+	},
+	{
+		"abr": "musclewire",
+		"price": 2167,
+		"category": "Cyborg",
+		"defname": "ANN_Musclewire"
+	},
+	{
+		"abr": "musechip",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_MuseChip"
+	},
+	{
+		"abr": "neuroenhancer",
+		"price": 2833,
+		"category": "Cyborg",
+		"defname": "ANN_NeuroEnhancer"
+	},
+	{
+		"abr": "neuromodbooster",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_NeuromodBooster"
+	},
+	{
+		"abr": "outerblade",
+		"price": 2000,
+		"category": "Cyborg",
+		"defname": "ANN_OuterBlade"
+	},
+	{
+		"abr": "passiongiver",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_PassionGiver"
+	},
+	{
+		"abr": "powerarms",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_PowerArms"
+	},
+	{
+		"abr": "reconditioner",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_Reconditioner"
+	},
+	{
+		"abr": "sensoricearside",
+		"price": 1333,
+		"category": "Cyborg",
+		"defname": "ANN_SensoricEarside"
+	},
+	{
+		"abr": "shadowrunner",
+		"price": 2000,
+		"category": "Cyborg",
+		"defname": "ANN_Shadowrunner"
+	},
+	{
+		"abr": "synchronizer",
+		"price": 3000,
+		"category": "Cyborg",
+		"defname": "ANN_Synchronizer"
+	},
+	{
+		"abr": "zoom",
+		"price": 1500,
+		"category": "Cyborg",
+		"defname": "ANN_Zoom"
+	},
+	{
+		"abr": "advancedbionicarm",
+		"price": 3575,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicArm"
+	},
+	{
+		"abr": "advancedbionicear",
+		"price": 1350,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicEar"
+	},
+	{
+		"abr": "advancedbioniceye",
+		"price": 2908,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicEye"
+	},
+	{
+		"abr": "advancedbionicfoot",
+		"price": 2092,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicFoot"
+	},
+	{
+		"abr": "advancedbionichand",
+		"price": 2092,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicHand"
+	},
+	{
+		"abr": "advancedbionicleg",
+		"price": 3575,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicLeg"
+	},
+	{
+		"abr": "advancedbionicspine",
+		"price": 3533,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicSpine"
+	},
+	{
+		"abr": "advancedmedicalstation",
+		"price": 3867,
+		"category": "Production",
+		"defname": "AdvancedMedicalStation"
+	},
+	{
+		"abr": "advancedpowerarm",
+		"price": 5258,
+		"category": "Advanced bionics",
+		"defname": "AdvancedPowerArm"
+	},
+	{
+		"abr": "artificialbone",
+		"price": 333,
+		"category": "Simple prostheses",
+		"defname": "ArtificialBone"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 417,
+		"category": "Simple prostheses",
+		"defname": "ArtificialNose"
+	},
+	{
+		"abr": "artificialpelvis",
+		"price": 808,
+		"category": "Simple prostheses",
+		"defname": "ArtificialPelvis"
+	},
+	{
+		"abr": "bionicfoot",
+		"price": 883,
+		"category": "Bionics",
+		"defname": "BionicFoot"
+	},
+	{
+		"abr": "bionichand",
+		"price": 883,
+		"category": "Bionics",
+		"defname": "BionicHand"
+	},
+	{
+		"abr": "bionicjaw",
+		"price": 950,
+		"category": "Bionics",
+		"defname": "BionicJaw"
+	},
+	{
+		"abr": "bionicworkbench",
+		"price": 1667,
+		"category": "Production",
+		"defname": "BionicWorkbench"
+	},
+	{
+		"abr": "cortexaugmentor",
+		"price": 7500,
+		"category": "Brain implants",
+		"defname": "Cortexaugmentor"
+	},
+	{
+		"abr": "exoskeletonsuit",
+		"price": 3500,
+		"category": "Advanced bionics",
+		"defname": "ExoskeletonSuit"
+	},
+	{
+		"abr": "hyporegulator",
+		"price": 7500,
+		"category": "Brain implants",
+		"defname": "Hyporegulator"
+	},
+	{
+		"abr": "neurostimulator",
+		"price": 7500,
+		"category": "Brain implants",
+		"defname": "Neurostimulator"
+	},
+	{
+		"abr": "powerarm",
+		"price": 3517,
+		"category": "Bionics",
+		"defname": "PowerArm"
+	},
+	{
+		"abr": "simpleprostheticfoot",
+		"price": 467,
+		"category": "Simple prostheses",
+		"defname": "SimpleProstheticFoot"
+	},
+	{
+		"abr": "simpleprosthetichand",
+		"price": 467,
+		"category": "Simple prostheses",
+		"defname": "SimpleProstheticHand"
+	},
+	{
+		"abr": "stomach[rbse]",
+		"price": 667,
+		"category": "Natural",
+		"defname": "Stomach"
+	},
+	{
+		"abr": "syntheticheart",
+		"price": 2042,
+		"category": "Synthetic organs",
+		"defname": "SyntheticHeart"
+	},
+	{
+		"abr": "synthetickidney",
+		"price": 2042,
+		"category": "Synthetic organs",
+		"defname": "SyntheticKidney"
+	},
+	{
+		"abr": "syntheticliver",
+		"price": 2042,
+		"category": "Synthetic organs",
+		"defname": "SyntheticLiver"
+	},
+	{
+		"abr": "syntheticlung",
+		"price": 2042,
+		"category": "Synthetic organs",
+		"defname": "SyntheticLung"
+	},
+	{
+		"abr": "syntheticstomach",
+		"price": 1592,
+		"category": "Synthetic organs",
+		"defname": "SyntheticStomach"
+	},
 	],
-	"total": 2024
+	"total": 2124
 }
