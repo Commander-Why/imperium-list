@@ -12271,6 +12271,552 @@
 		"defname": "Cryptonest"
 	},
 	{
+		"abr": "hardpoint",
+		"price": 567,
+		"category": "Misc",
+		"defname": "ShipHardpoint"
+	},
+	{
+		"abr": "hullplating",
+		"price": 33,
+		"category": "Misc",
+		"defname": "ShipHullTile"
+	},
+	{
+		"abr": "johnson-tanakadrive",
+		"price": 12208,
+		"category": "Misc",
+		"defname": "Ship_Engine_Interplanetary"
+	},
+	{
+		"abr": "largehardpoint",
+		"price": 2275,
+		"category": "Misc",
+		"defname": "ShipHardpointLarge"
+	},
+	{
+		"abr": "lifesupportsystem",
+		"price": 5458,
+		"category": "Misc",
+		"defname": "Ship_LifeSupport"
+	},
+	{
+		"abr": "shipairlock",
+		"price": 1175,
+		"category": "Misc",
+		"defname": "ShipAirlock"
+	},
+	{
+		"abr": "shipradiator",
+		"price": 1342,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveCooler"
+	},
+	{
+		"abr": "shuttlebay",
+		"price": 3575,
+		"category": "Misc",
+		"defname": "ShipShuttleBay"
+	},
+	{
+		"abr": "solargenerator",
+		"price": 1500,
+		"category": "Misc",
+		"defname": "ShipInside_SolarGenerator"
+	},
+	{
+		"abr": "adaptivesuit",
+		"price": 3333,
+		"category": "Apparel",
+		"defname": "Apparel_CEOsuit"
+	},
+	{
+		"abr": "atlascombatshotgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasCombatShotgun"
+	},
+	{
+		"abr": "atlasmachinepistol",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasMachinePistol"
+	},
+	{
+		"abr": "atlaspistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasPistol"
+	},
+	{
+		"abr": "atlaspulserifle",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasRifle"
+	},
+	{
+		"abr": "crimsonlancearmor",
+		"price": 2000,
+		"category": "Apparel",
+		"defname": "Apparel_CrimsonLanceArmor"
+	},
+	{
+		"abr": "crimsonlancehelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "Apparel_CrimsonLanceHelmet"
+	},
+	{
+		"abr": "hyperionpistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionPistol"
+	},
+	{
+		"abr": "rakk",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Rakk"
+	},
+	{
+		"abr": "rakkegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "EggRakkFertilized"
+	},
+	{
+		"abr": "spiderant",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Spiderant"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 52000,
+		"category": "Misc",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "atlassniperrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasSniperRifle"
+	},
+	{
+		"abr": "crimsonlancelightarmor",
+		"price": 1667,
+		"category": "Apparel",
+		"defname": "Apparel_CrimsonLanceLightArmor"
+	},
+	{
+		"abr": "srts:electricalcomponents",
+		"price": 309,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_ElectricSystem"
+	},
+	{
+		"abr": "srts:enginecomponents",
+		"price": 1158,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Engines"
+	},
+	{
+		"abr": "srts:internalcomponents",
+		"price": 198,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Structural"
+	},
+	{
+		"abr": "srts:mechanicalcomponents",
+		"price": 265,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_MechSystem"
+	},
+	{
+		"abr": "srts:steelplates",
+		"price": 550,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Plates"
+	},
+	{
+		"abr": "accelerator",
+		"price": 2500,
+		"category": "Cyborg weaponry",
+		"defname": "CW_Accelerator"
+	},
+	{
+		"abr": "ballisticcombatgun",
+		"price": 1667,
+		"category": "Cyborg weaponry",
+		"defname": "CW_BallisticCombatGun"
+	},
+	{
+		"abr": "ballisticenforcer",
+		"price": 1667,
+		"category": "Cyborg weaponry",
+		"defname": "CW_BallisticEnforcer"
+	},
+	{
+		"abr": "ballisticshredder",
+		"price": 1667,
+		"category": "Cyborg weaponry",
+		"defname": "CW_BallisticShredder"
+	},
+	{
+		"abr": "chainsword",
+		"price": 2000,
+		"category": "Cyborg weaponry",
+		"defname": "CW_ChainSword"
+	},
+	{
+		"abr": "coilgun",
+		"price": 2917,
+		"category": "Cyborg weaponry",
+		"defname": "CW_CoilGun"
+	},
+	{
+		"abr": "disruptor",
+		"price": 3083,
+		"category": "Cyborg weaponry",
+		"defname": "CW_Disruptor"
+	},
+	{
+		"abr": "dualeraser",
+		"price": 2000,
+		"category": "Cyborg weaponry",
+		"defname": "CW_DualEraser"
+	},
+	{
+		"abr": "energyclaw",
+		"price": 2000,
+		"category": "Cyborg weaponry",
+		"defname": "CW_EnergyClaw"
+	},
+	{
+		"abr": "energysword",
+		"price": 2000,
+		"category": "Cyborg weaponry",
+		"defname": "CW_EnergySword"
+	},
+	{
+		"abr": "gunblade",
+		"price": 2000,
+		"category": "Cyborg weaponry",
+		"defname": "CW_GunBlade"
+	},
+	{
+		"abr": "havoclauncher",
+		"price": 2225,
+		"category": "Cyborg weaponry",
+		"defname": "CW_HavocLauncher"
+	},
+	{
+		"abr": "napalmblaster",
+		"price": 1667,
+		"category": "Cyborg weaponry",
+		"defname": "CW_NapalmBlaster"
+	},
+	{
+		"abr": "plasmagun",
+		"price": 2917,
+		"category": "Cyborg weaponry",
+		"defname": "CW_PlasmaGun"
+	},
+	{
+		"abr": "powerfist",
+		"price": 2000,
+		"category": "Cyborg weaponry",
+		"defname": "CW_PowerFist"
+	},
+	{
+		"abr": "reconbolter",
+		"price": 3333,
+		"category": "Cyborg weaponry",
+		"defname": "CW_ReconBolter"
+	},
+	{
+		"abr": "riotbreaker",
+		"price": 1667,
+		"category": "Cyborg weaponry",
+		"defname": "CW_RiotBreaker"
+	},
+	{
+		"abr": "shocker",
+		"price": 1333,
+		"category": "Cyborg",
+		"defname": "ANN_Shocker"
+	},
+	{
+		"abr": "apc",
+		"price": 3283,
+		"category": "Animal",
+		"defname": "APC"
+	},
+	{
+		"abr": "apcparts",
+		"price": 328,
+		"category": "Items",
+		"defname": "Vehicle_APCParts"
+	},
+	{
+		"abr": "artillerycannon",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "Arty_Cannon"
+	},
+	{
+		"abr": "atv",
+		"price": 167,
+		"category": "Animal",
+		"defname": "ATV"
+	},
+	{
+		"abr": "atvparts",
+		"price": 17,
+		"category": "Items",
+		"defname": "Vehicle_ATVParts"
+	},
+	{
+		"abr": "brewofthedreams",
+		"price": 2,
+		"category": "Drugs",
+		"defname": "WitcherTrials_Brew_Dreams"
+	},
+	{
+		"abr": "brewoftheelders",
+		"price": 2,
+		"category": "Drugs",
+		"defname": "WitcherTrials_Brew_Elders"
+	},
+	{
+		"abr": "brewofthegrasses",
+		"price": 2,
+		"category": "Drugs",
+		"defname": "WitcherTrials_Brew_Grasses"
+	},
+	{
+		"abr": "bulletstorm",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_BulletstormSW"
+	},
+	{
+		"abr": "burngauntlet",
+		"price": 417,
+		"category": "Melee weapons",
+		"defname": "BurnStickSW"
+	},
+	{
+		"abr": "burstcannon",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "Burst_Cannon"
+	},
+	{
+		"abr": "cart",
+		"price": 267,
+		"category": "Animal",
+		"defname": "Cart"
+	},
+	{
+		"abr": "cartparts",
+		"price": 27,
+		"category": "Items",
+		"defname": "Vehicle_CartParts"
+	},
+	{
+		"abr": "cherubmechinjector",
+		"price": 3333,
+		"category": "Items",
+		"defname": "CherubMechInjectorSW"
+	},
+	{
+		"abr": "computingsystem",
+		"price": 1700,
+		"category": "Misc",
+		"defname": "ComputingSystemSW"
+	},
+	{
+		"abr": "empgrenadelauncher",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "EMPGrenadeLauncherSW"
+	},
+	{
+		"abr": "fibrousmechinjector",
+		"price": 300,
+		"category": "Items",
+		"defname": "FibrousMechInjectorSW"
+	},
+	{
+		"abr": "gausslance",
+		"price": 2058,
+		"category": "Ranged weapons",
+		"defname": "Gun_RailgunSW"
+	},
+	{
+		"abr": "gaussrifle",
+		"price": 1925,
+		"category": "Ranged weapons",
+		"defname": "Gun_GaussrifleSW"
+	},
+	{
+		"abr": "glitterworldhospitalbed",
+		"price": 1958,
+		"category": "Furniture",
+		"defname": "GlitterworldHospitalBedSW"
+	},
+	{
+		"abr": "lazarusmechinjector",
+		"price": 583,
+		"category": "Items",
+		"defname": "LazarusMechInjectorSW"
+	},
+	{
+		"abr": "machinecannon",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "Machine_Cannon"
+	},
+	{
+		"abr": "machinegun",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "Machine_Gun"
+	},
+	{
+		"abr": "maliciousaipersonacore",
+		"price": 3000,
+		"category": "Items",
+		"defname": "MalAIPersonaCoreSW"
+	},
+	{
+		"abr": "matterweaver",
+		"price": 1517,
+		"category": "Production",
+		"defname": "TableWeaverSW"
+	},
+	{
+		"abr": "mechaniteassembly",
+		"price": 1767,
+		"category": "Production",
+		"defname": "MechaniteAssemblySW"
+	},
+	{
+		"abr": "navalcannon",
+		"price": 16308,
+		"category": "Ranged weapons",
+		"defname": "Naval_Cannon"
+	},
+	{
+		"abr": "neutroglycerin",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "NeutroglycerinSW"
+	},
+	{
+		"abr": "paingun",
+		"price": 1392,
+		"category": "Ranged weapons",
+		"defname": "Gun_PainGunSW"
+	},
+	{
+		"abr": "painstick",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "PainStickSW"
+	},
+	{
+		"abr": "plasmagun",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "Gun_PlasmaGunSW"
+	},
+	{
+		"abr": "railcannon",
+		"price": 8667,
+		"category": "Ranged weapons",
+		"defname": "Rail_Cannon"
+	},
+	{
+		"abr": "reconstructormechinjector",
+		"price": 667,
+		"category": "Items",
+		"defname": "ReconstructorMechSerumSW"
+	},
+	{
+		"abr": "sensorymechinjector",
+		"price": 267,
+		"category": "Items",
+		"defname": "SensoryMechInjectorSW"
+	},
+	{
+		"abr": "sirenium",
+		"price": 75,
+		"category": "Drugs",
+		"defname": "SireniumSW"
+	},
+	{
+		"abr": "tank",
+		"price": 10350,
+		"category": "Animal",
+		"defname": "Tank"
+	},
+	{
+		"abr": "tankcannon",
+		"price": 7000,
+		"category": "Ranged weapons",
+		"defname": "Tank_Cannon"
+	},
+	{
+		"abr": "tankparts",
+		"price": 1033,
+		"category": "Items",
+		"defname": "Vehicle_TankParts"
+	},
+	{
+		"abr": "truck",
+		"price": 1775,
+		"category": "Animal",
+		"defname": "Truck"
+	},
+	{
+		"abr": "truckparts",
+		"price": 178,
+		"category": "Items",
+		"defname": "Vehicle_TruckParts"
+	},
+	{
+		"abr": "witcher'ssilversword",
+		"price": 146,
+		"category": "Melee weapons",
+		"defname": "WitcherTrials_Melee_SilverSword"
+	},
+	{
+		"abr": "witcher'ssteelsword",
+		"price": 475,
+		"category": "Melee weapons",
+		"defname": "WitcherTrials_Melee_SteelSword"
+	},
+	{
+		"abr": "beamcannonsatellitepod",
+		"price": 1567,
+		"category": "Misc",
+		"defname": "BeamCannonSatellitePodSW"
+	},
+	{
+		"abr": "bombardmentsatellitepod",
+		"price": 1567,
+		"category": "Misc",
+		"defname": "KineticBombardmentSatellitePodSW"
+	},
+	{
+		"abr": "compactfissionreactor",
+		"price": 3367,
+		"category": "Misc",
+		"defname": "CompactFissionPowerSW"
+	},
+	{
 		"abr": "guestadvancedbed",
 		"price": 833,
 		"category": "Furniture",
@@ -12331,6 +12877,12 @@
 		"defname": "Bed_DoubleErgonomicGuest"
 	},
 	{
+		"abr": "guestglitterworldhospitalbed",
+		"price": 1958,
+		"category": "Furniture",
+		"defname": "GlitterworldHospitalBedSWGuest"
+	},
+	{
 		"abr": "guesthospitalbed",
 		"price": 667,
 		"category": "Furniture",
@@ -12367,59 +12919,29 @@
 		"defname": "Bed_StoneSlabGuest"
 	},
 	{
-		"abr": "hardpoint",
-		"price": 567,
+		"abr": "mindalteringdevice",
+		"price": 1817,
 		"category": "Misc",
-		"defname": "ShipHardpoint"
+		"defname": "MindAlteringDeviceSW"
 	},
 	{
-		"abr": "hullplating",
-		"price": 33,
+		"abr": "vehicletable",
+		"price": 758,
 		"category": "Misc",
-		"defname": "ShipHullTile"
+		"defname": "VehicleTable"
 	},
 	{
-		"abr": "johnson-tanakadrive",
-		"price": 12208,
+		"abr": "zombgrella",
+		"price": 642,
 		"category": "Misc",
-		"defname": "Ship_Engine_Interplanetary"
+		"defname": "Zombgrella"
 	},
 	{
-		"abr": "largehardpoint",
-		"price": 2275,
+		"abr": "zombrella",
+		"price": 3333,
 		"category": "Misc",
-		"defname": "ShipHardpointLarge"
-	},
-	{
-		"abr": "lifesupportsystem",
-		"price": 5458,
-		"category": "Misc",
-		"defname": "Ship_LifeSupport"
-	},
-	{
-		"abr": "shipairlock",
-		"price": 1175,
-		"category": "Misc",
-		"defname": "ShipAirlock"
-	},
-	{
-		"abr": "shipradiator",
-		"price": 1342,
-		"category": "Misc",
-		"defname": "ShipInside_PassiveCooler"
-	},
-	{
-		"abr": "shuttlebay",
-		"price": 3575,
-		"category": "Misc",
-		"defname": "ShipShuttleBay"
-	},
-	{
-		"abr": "solargenerator",
-		"price": 1500,
-		"category": "Misc",
-		"defname": "ShipInside_SolarGenerator"
+		"defname": "Zombrella"
 	}
 	],
-	"total": 2152
+	"total": 2255
 }
